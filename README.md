@@ -4,7 +4,7 @@ A repository for the book "Elements of Programming Interview in python", solutio
 
 To Run:
 npm install
-node main.js <section>.<problem_id>
+node main.js < section >.< problem_id >
 
 Example:
 node main.js arrays.5.6
