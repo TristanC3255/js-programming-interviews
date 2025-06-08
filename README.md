@@ -4,8 +4,11 @@ A repository for the book "Elements of Programming Interview in python", solutio
 
 To Run:
 git clone https://github.com/TristanC3255/js-programming-interviews.git
+
 cd js-programming-interviews
+
 npm install
+
 node main.js < section >.< problem_id >
 
 Example:
