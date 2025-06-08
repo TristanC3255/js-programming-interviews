@@ -7,4 +7,4 @@ npm install
 node main.js <section>.<problem_id>
 
 Example:
-node main.js arrays.5_6
+node main.js arrays.5.6
